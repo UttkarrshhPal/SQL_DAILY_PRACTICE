@@ -1,2 +1,1 @@
-Here I will daily commiting SQL Ques 
-Because I love doing that 
+Love solving SQL
